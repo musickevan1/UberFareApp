@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UberFareApp</string>
+    <string-array name="vehicle_options">
+        <item>Smart Car</item>
+        <item>Traditional Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+</resources>
